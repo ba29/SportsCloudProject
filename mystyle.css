@@ -1,0 +1,39 @@
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  font-family: sans-serif;
+  text-shadow: 2px 2px #42f4df;
+}
+body {
+  background-color: #f2f7ff;
+  text-align: center;
+  border-spacing: inherit;
+  margin:60px;
+}
+img {
+
+  margin: 42px;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 1px;
+
+}
+h2{
+  font-size: 35px;
+  text-align: center;
+  text-shadow: 2px 2px #aaff80;
+}
+
+li{
+  font-size: 25px;
+  align: center;
+}
+div {
+  border-top: solid;
+}
+#centering {
+  margin-left: 50px;
+  width: auto;
+}

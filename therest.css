@@ -52,6 +52,12 @@ p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .navbar a {
     float: left;
     font-size: 16px;
@@ -60,7 +66,6 @@ p {
     padding: 14px 16px;
     text-decoration: none;
 }
-
 
 .dropdown {
     float: left;
@@ -138,6 +143,11 @@ img {
 display: flex;
 flex-direction: row;
 }
-h3{font-size: 60px;}
-h4{font-size: 30px;}
-h5{font-size: 80px;}
+h3{font-size: 30px;}
+h4{font-size: 40px;}
+h5{font-size: 50px;}
+
+a {
+    text-align: left;
+    font-size: 15px;
+}
