@@ -84,7 +84,7 @@ p {
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: black;
+    background-color: white;
 }
 
 .dropdown-content {
